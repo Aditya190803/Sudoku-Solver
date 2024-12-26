@@ -1,4 +1,6 @@
-streamlit
-opencv-python-headless
+imageio
+keras
 numpy
-pillow
+opencv_python
+scipy
+streamlit
