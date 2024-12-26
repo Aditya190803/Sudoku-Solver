@@ -4,9 +4,25 @@ A Streamlit app that solves Sudoku puzzles using computer vision and machine lea
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Aditya190803/sudoku-solver.git`
-2. Install requirements: `pip install -r requirements.txt`
-3. Run the app: `streamlit run app.py`
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Aditya190803/sudoku-solver.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd sudoku-solver
+   ```
+
+3. **Install requirements**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the app**:
+   ```bash
+   streamlit run app.py
+   ```
 
 ## Usage
 
