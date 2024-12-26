@@ -59,4 +59,4 @@ if file:
             f"<center><h3>Solved in {solve_duration:.5f} seconds</h3></center>",
             unsafe_allow_html=True
         )
-        st.image(solved_image, caption='Solved Sudoku', use_column_width=True)
+        st.image(solved_image, caption='Solved Sudoku', use_container_width=True)
